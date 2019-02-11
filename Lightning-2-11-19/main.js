@@ -8,7 +8,7 @@ const jobFactory = displayJob => {
       <p>End Year: ${displayJob.end_year}</p>
       <p>City: ${displayJob.city}</p>
       <p>State: ${displayJob.state}</p>
-      <p>Synopsis: ${displayJob.Synopsis}</p>
+      <p>Synopsis: ${displayJob.synopsis}</p>
   </div>
   `
 }
